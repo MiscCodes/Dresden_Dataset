@@ -1,6 +1,6 @@
 # Dresden_Dataset
 
-This reposiorty provide the JPEG images of Dresden dataset. I dont own the rights of Dresden dataset. 
+This repository provide the JPEG images of Dresden dataset. I dont own the rights of Dresden dataset. 
 Please cite the appropriate [[1]](#1).
 
 ## References
